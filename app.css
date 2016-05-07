@@ -1,0 +1,26 @@
+@charset "utf-8";
+
+#bottles {
+    background-color: #F1C40F;
+}
+#cans {
+    background-color: #F1C40F;
+}
+#cardboardboxes {
+    background-color: #F1C40F;
+}
+#petbottles {
+    background-color: #F1C40F;
+}
+#fluorescentbulbs {
+    background-color: #F1C40F;
+}
+#plastic {
+    background-color: #E67E22;
+}
+#burnable {
+    background-color: #16A085;
+}
+#nonburnable {
+    background-color: #2980B9;
+}
